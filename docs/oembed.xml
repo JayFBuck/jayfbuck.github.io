@@ -3,12 +3,12 @@
     <version>1.0</version>
     <title>Jason Frederick Buckman</title>
     <url>https://www.jasonfbuckman.com/</url>
-    <author>Jason Frederick Buckman</author>
+    <author_name>Jason Frederick Buckman</author_name>
     <author_url>https://www.jasonfbuckman.com/</author_url>
-    <provider>Jason Frederick Buckman</provider>
+    <provider_name>Jason Frederick Buckman</provider_name>
     <provider_url>https://www.jasonfbuckman.com/</provider_url>
     <thumbnail_url>https://www.jasonfbuckman.com/photo.png</thumbnail_url>
-    <thmbnail_width>252</thumbnail_width>
-    <thmbnail_height>252</thumbnail_height>
+    <thumbnail_width>252</thumbnail_width>
+    <thumbnail_height>252</thumbnail_height>
 </oembed>
 
