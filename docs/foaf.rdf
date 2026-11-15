@@ -17,7 +17,7 @@
         <foaf:primaryTopic rdf:resource="#me" />
         <dc:type>Text</dc:type>
         <dc:format>application/rdf+xml</dc:format>
-        <dcterms:extent>6267</dcterms:extent>
+        <dcterms:extent>5942</dcterms:extent>
         <admin:generatorAgent rdf:resource="https://notepad-plus-plus.org/" />
         <admin:errorsReportTo rdf:resource="https://www.jasonfbuckman.com/" />
     </foaf:PersonalProfileDocument>
@@ -86,12 +86,6 @@
                 <foaf:accountName>JayFBuck</foaf:accountName>
             </foaf:OnlineAccount>
         </foaf:account>
-        <foaf:account>
-            <foaf:OnlineAccount>
-                <foaf:accountServiceHomepage rdf:resource="https://www.vine.co/" />
-                <foaf:accountProfilePage rdf:resource="https://www.vine.co/JayFBuck" />
-                <foaf:accountName>JayFBuck</foaf:accountName>
-        </foaf:OnlineAccount>
         </foaf:account>
         <foaf:account>
             <foaf:OnlineAccount>
