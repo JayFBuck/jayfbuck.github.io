@@ -17,7 +17,7 @@
         <foaf:primaryTopic rdf:resource="#me" />
         <dc:type>Text</dc:type>
         <dc:format>application/rdf+xml</dc:format>
-        <dcterms:extent>5909</dcterms:extent>
+        <dcterms:extent>5841</dcterms:extent>
         <admin:generatorAgent rdf:resource="https://notepad-plus-plus.org/" />
         <admin:errorsReportTo rdf:resource="https://www.jasonfbuckman.com/" />
     </foaf:PersonalProfileDocument>
@@ -34,7 +34,6 @@
         <foaf:tipjar rdf:resource="https://cash.app/$JayFBuck" />
         <foaf:tipjar rdf:resource="https://paypal.me/JayFBuck" />
         <foaf:tipjar rdf:resource="https://www.venmo.com/JayFBuck" />
-        <foaf:tipjar rdf:resource="https://strike.com/jayfbuck" />
         <foaf:tipjar rdf:resource="https://go.fidelity.com/vlaern" />
         <foaf:tipjar rdf:resource="bitcoin:156qBzNS7Rgck16uWxvdpZBCPt2bVG26Tv" />
         <foaf:tipjar rdf:resource="litecoin:LRzqsonG1B8r4wDKQa5HTrHvsgBrRPj84j" />
