@@ -14,7 +14,7 @@
     <dc:publisher>Jason Frederick Buckman</dc:publisher>
     <dc:type>Text</dc:type>
     <dc:format>application/rss+xml</dc:format>
-    <dcterms:extent>6593</dcterms:extent>
+    <dcterms:extent>6509</dcterms:extent>
     <link>https://www.jasonfbuckman.com/</link>
     <pubDate>Sun, 15 Nov 2026 00:20:00 GMT</pubDate>
     <lastBuildDate>Sun, 15 Nov 2026 00:20:00 GMT</lastBuildDate>
@@ -44,7 +44,7 @@
       <dc:publisher>Jason Frederick Buckman</dc:publisher>
       <dc:type>Text</dc:type>
       <dc:format>text/html</dc:format>
-      <dcterms:extent>22812</dcterms:extent>
+      <dcterms:extent>22723</dcterms:extent>
       <atom:link rel="related" title="about.me" href="https://about.me/jayfbuck" />
       <atom:link rel="related" title="Gravatar" href="https://gravatar.com/jayfbuck" />
       <atom:link rel="related" title="Facebook" href="https://www.facebook.com/JayFBuck" />
@@ -63,7 +63,6 @@
       <atom:link rel="related" title="Snapchat" href="https://snapchat.com/add/jayfbuck" />
       <atom:link rel="related" title="Cash App" href="https://cash.app/$JayFBuck" />
       <atom:link rel="related" title="PayPal" href="https://paypal.me/JayFBuck" />
-      <atom:link rel="related" title="Strike" href="https://strike.me/jayfbuck" />
       <atom:link rel="related" title="Venmo" href="https://www.venmo.com/JayFBuck" />
       <atom:link rel="related" title="Google Pay" href="https://gpay.app.goo.gl/pay-CLqPSM9lA8b" />
       <atom:link rel="related" title="College Savings Plan" href="https://go.fidelity.com/vlaern" />
