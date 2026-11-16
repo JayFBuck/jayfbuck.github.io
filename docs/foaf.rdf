@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="/_/xsl/foaf.xsl" ?>
 <rdf:RDF xml:lang="en-US" 
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
@@ -16,10 +17,11 @@
         <foaf:maker rdf:resource="#me" />
         <foaf:primaryTopic rdf:resource="#me" />
         <dc:type>Text</dc:type>
-        <dc:format>application/rdf+xml</dc:format>
-        <dcterms:extent>5841</dcterms:extent>
+        <dc:format>application/rdf+xml</dc:format>>
+        <dcterms:modified>2026-11-16T17:00:00-05:00</dcterms:modified>
+        <dcterms:extent>5945</dcterms:extent>
         <admin:generatorAgent rdf:resource="https://notepad-plus-plus.org/" />
-        <admin:errorsReportTo rdf:resource="https://www.jasonfbuckman.com/" />
+        <admin:errorsReportTo rdf:resource="#me" />
     </foaf:PersonalProfileDocument>
     <foaf:Person rdf:ID="me">
         <foaf:name>Jason Frederick Buckman</foaf:name>
