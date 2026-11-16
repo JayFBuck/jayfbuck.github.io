@@ -81,8 +81,18 @@
             <xsl:if test="description">
               <p class="itemdescription"><xsl:value-of select="description" /></p>
             </xsl:if>
-            <xsl:if test="content:encoded">
-              <div class="itemcontent"><xsl:value-of select="content:encoded" disable-output-escaping="yes" /></div>
+            <!-- content:encoded is CDATA HTML. Browsers ignore disable-output-escaping, so it would show as a block of HTML text. Render the same links from the structured atom:link elements instead. -->
+            <xsl:if test="atom:link[@rel='related']">
+              <div class="itemcontent">
+                <xsl:if test="ror:image">
+                  <div><img src="{ror:image}" alt="" width="252" height="252" /></div>
+                </xsl:if>
+                <ul>
+                  <xsl:for-each select="atom:link[@rel='related']">
+                    <li><a rel="external me" href="{@href}"><xsl:value-of select="@title" /></a></li>
+                  </xsl:for-each>
+                </ul>
+              </div>
             </xsl:if>
             <xsl:if test="ror:about or ror:type or ror:resourceOf or ror:image">
               <dl class="ror">
