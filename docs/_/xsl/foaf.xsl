@@ -117,12 +117,13 @@
             </xsl:if>
           </div>
         </xsl:for-each>
-        <xsl:if test="/rdf:RDF/foaf:PersonalProfileDocument">
+         <xsl:if test="/rdf:RDF/foaf:PersonalProfileDocument">
           <h2>About this document</h2>
           <dl class="details">
             <xsl:if test="/rdf:RDF/foaf:PersonalProfileDocument/dc:type"><dt>Type</dt><dd><xsl:value-of select="/rdf:RDF/foaf:PersonalProfileDocument/dc:type" /></dd></xsl:if>
             <xsl:if test="/rdf:RDF/foaf:PersonalProfileDocument/dc:format"><dt>Format</dt><dd><xsl:value-of select="/rdf:RDF/foaf:PersonalProfileDocument/dc:format" /></dd></xsl:if>
             <xsl:if test="/rdf:RDF/foaf:PersonalProfileDocument/dcterms:extent"><dt>Size</dt><dd><xsl:value-of select="/rdf:RDF/foaf:PersonalProfileDocument/dcterms:extent" /> bytes</dd></xsl:if>
+            <xsl:if test="/rdf:RDF/foaf:PersonalProfileDocument/dcterms:modified"><dt>Last modified</dt><dd><xsl:value-of select="/rdf:RDF/foaf:PersonalProfileDocument/dcterms:modified" /></dd></xsl:if>
             <xsl:if test="/rdf:RDF/foaf:PersonalProfileDocument/admin:generatorAgent"><dt>Generator</dt><dd><a href="{/rdf:RDF/foaf:PersonalProfileDocument/admin:generatorAgent/@rdf:resource}"><xsl:value-of select="/rdf:RDF/foaf:PersonalProfileDocument/admin:generatorAgent/@rdf:resource" /></a></dd></xsl:if>
             <xsl:if test="/rdf:RDF/foaf:PersonalProfileDocument/admin:errorsReportTo"><dt>Errors to</dt><dd><a href="{/rdf:RDF/foaf:PersonalProfileDocument/admin:errorsReportTo/@rdf:resource}"><xsl:value-of select="/rdf:RDF/foaf:PersonalProfileDocument/admin:errorsReportTo/@rdf:resource" /></a></dd></xsl:if>
           </dl>
