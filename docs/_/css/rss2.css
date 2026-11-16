@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+body { font-family: system-ui, sans-serif; margin: 2em; color: #222; }
+.feed-header { background: #fff3cd; border: 1px solid #ffe08a; padding: 1em; margin-bottom: 2em; }
+.channel img { max-width: 252px; height: auto; }
+h1, h2, h3 { line-height: 1.2; }
+.description { font-size: 1.1em; }
+.meta, .itemdate, .guid { color: #555; font-size: 0.9em; }
+.item { border-top: 1px solid #ccc; padding: 1em 0; }
+.itemcontent img { max-width: 100%; height: auto; }
+.ror dt { font-weight: bold; }
+.ror dd { margin: 0 0 0.5em 0; }
+.footer { border-top: 1px solid #ccc; margin-top: 2em; padding-top: 1em; color: #555; }
