@@ -17,9 +17,9 @@
         <foaf:maker rdf:resource="#me" />
         <foaf:primaryTopic rdf:resource="#me" />
         <dc:type>Text</dc:type>
-        <dc:format>application/rdf+xml</dc:format>>
-        <dcterms:modified>2026-11-16T17:00:00-05:00</dcterms:modified>
-        <dcterms:extent>5945</dcterms:extent>
+        <dc:format>application/rdf+xml</dc:format>
+        <dcterms:modified>2026-11-16T17:05:00-05:00</dcterms:modified>
+        <dcterms:extent>5944</dcterms:extent>
         <admin:generatorAgent rdf:resource="https://notepad-plus-plus.org/" />
         <admin:errorsReportTo rdf:resource="#me" />
     </foaf:PersonalProfileDocument>
