@@ -5,13 +5,12 @@
     xmlns:content="http://www.google.com/schemas/sitemap-content/1.0">
   <url>
     <loc>https://www.jasonfbuckman.com/</loc>
-      <lastmod>2026-11-15T20:38:00-05:00</lastmod>
-      <priority>1.00</priority>
-      <image:image>
-        <image:loc>https://www.jasonfbuckman.com/photo.png</image:loc>
-        <image:title>Jason Frederick Buckman</image:title>
-      </image:image>
-    </loc>
+    <lastmod>2026-11-15T20:38:00-05:00</lastmod>
+    <priority>1.00</priority>
+    <image:image>
+      <image:loc>https://www.jasonfbuckman.com/photo.png</image:loc>
+      <image:title>Jason Frederick Buckman</image:title>
+    </image:image>
     <xhtml:link rel="alternate" type="text/html" hreflang="en-US" href="https://www.jasonfbuckman.com/" />
     <xhtml:link rel="alternate" type="text/html" hreflang="x-default" href="https://www.jasonfbuckman.com/" />
   </url>
