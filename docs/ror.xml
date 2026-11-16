@@ -14,7 +14,7 @@
     <dc:publisher>Jason Frederick Buckman</dc:publisher>
     <dc:type>Text</dc:type>
     <dc:format>application/rss+xml</dc:format>
-    <dcterms:extent>6509</dcterms:extent>
+    <dcterms:extent>6737</dcterms:extent>
     <link>https://www.jasonfbuckman.com/</link>
     <pubDate>Mon, 16 Nov 2026 01:38:00 GMT</pubDate>
     <lastBuildDate>Mon, 16 Nov 2026 01:38:00 GMT</lastBuildDate>
@@ -44,7 +44,7 @@
       <dc:publisher>Jason Frederick Buckman</dc:publisher>
       <dc:type>Text</dc:type>
       <dc:format>text/html</dc:format>
-      <dcterms:extent>22691</dcterms:extent>
+      <dcterms:extent>22159</dcterms:extent>
       <atom:link rel="related" title="about.me" href="https://about.me/jayfbuck" />
       <atom:link rel="related" title="Gravatar" href="https://gravatar.com/jayfbuck" />
       <atom:link rel="related" title="Facebook" href="https://www.facebook.com/JayFBuck" />
@@ -66,6 +66,8 @@
       <atom:link rel="related" title="Venmo" href="https://www.venmo.com/JayFBuck" />
       <atom:link rel="related" title="Google Pay" href="https://gpay.app.goo.gl/pay-CLqPSM9lA8b" />
       <atom:link rel="related" title="College Savings Plan" href="https://go.fidelity.com/vlaern" />
+      <atom:link rel="related" title="Bitcoin Wallet $BTC" href="bitcoin:156qBzNS7Rgck16uWxvdpZBCPt2bVG26Tv" />
+      <atom:link rel="related" title="Litecoin Wallet $LTC" href="litecoin:LRzqsonG1B8r4wDKQa5HTrHvsgBrRPj84j" />
       <atom:link rel="alternate" type="text/html" href="https://www.jasonfbuckman.com/" />
       <atom:link rel="alternate" type="text/html" hreflang="en-US" href="https://www.jasonfbuckman.com/" />
       <atom:link rel="alternate" type="text/html" hreflang="x-default" href="https://www.jasonfbuckman.com/" />
