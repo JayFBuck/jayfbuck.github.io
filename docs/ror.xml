@@ -16,8 +16,8 @@
     <dc:format>application/rss+xml</dc:format>
     <dcterms:extent>6509</dcterms:extent>
     <link>https://www.jasonfbuckman.com/</link>
-    <pubDate>Sun, 15 Nov 2026 00:20:00 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2026 00:20:00 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 01:38:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 01:38:00 GMT</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml" href="https://www.jasonfbuckman.com/ror.xml" />
     <atom:link rel="alternate" type="application/xml" href="https://www.jasonfbuckman.com/sitemap.xml" />
     <atom:link rel="alternate" type="text/plain" href="https://www.jasonfbuckman.com/urllist.txt" />
@@ -73,8 +73,8 @@
       <guid isPermaLink="true">https://www.jasonfbuckman.com/</guid>
       <ror:image>https://www.jasonfbuckman.com/photo.png</ror:image>
       <ror:resourceOf>sitemap</ror:resourceOf>
-      <ror:updated>2026-11-14T19:20:00-05:00</ror:updated>
-      <pubDate>Sun, 15 Nov 2026 00:20:00 GMT</pubDate>
+      <ror:updated>2026-11-15T20:38:00-05:00</ror:updated>
+      <pubDate>Mon, 16 Nov 2026 01:38:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
