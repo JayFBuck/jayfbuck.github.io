@@ -5,10 +5,11 @@
     Location: North Attleboro, Massachusetts, United States
 
 /* SITE */
-    Last update: 2026/11/14
+    Last update: 2026/11/19
     Site name: Jason Frederick Buckman
     Site URL: https://www.jasonfbuckman.com/
     Language: English
     Standards: HTML5, CSS3
     Components: Bootstrap, Font Awesome, Google Web Fonts, jQuery
     Software: Notepad++
+	
